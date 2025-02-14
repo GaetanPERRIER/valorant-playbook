@@ -40,13 +40,13 @@
       },
       {
         "id": 2,
-        "name": "curveball",
-        "icon": "/_nuxt/static/imgs/agents/phoenix/curveball.png"
+        "name": "hot-hands",
+        "icon": "/_nuxt/static/imgs/agents/phoenix/hot-hands.png"
       },
       {
         "id": 3,
-        "name": "hot-hands",
-        "icon": "/_nuxt/static/imgs/agents/phoenix/hot-hands.png"
+        "name": "curveball",
+        "icon": "/_nuxt/static/imgs/agents/phoenix/curveball.png"
       },
       {
         "id": 4,
@@ -427,13 +427,13 @@
     "abilities": [
       {
         "id": 1,
-        "name": "flashdrive",
-        "icon": "/_nuxt/static/imgs/agents/kayo/flashdrive.png"
+        "name": "fragment",
+        "icon": "/_nuxt/static/imgs/agents/kayo/fragment.png"
       },
       {
         "id": 2,
-        "name": "fragment",
-        "icon": "/_nuxt/static/imgs/agents/kayo/fragment.png"
+        "name": "flashdrive",
+        "icon": "/_nuxt/static/imgs/agents/kayo/flashdrive.png"
       },
       {
         "id": 3,
@@ -456,13 +456,13 @@
     "abilities": [
       {
         "id": 1,
-        "name": "headhunter",
-        "icon": "/_nuxt/static/imgs/agents/chamber/headhunter.png"
+        "name": "trademark",
+        "icon": "/_nuxt/static/imgs/agents/chamber/trademark.png"
       },
       {
         "id": 2,
-        "name": "trademark",
-        "icon": "/_nuxt/static/imgs/agents/chamber/trademark.png"
+        "name": "headhunter",
+        "icon": "/_nuxt/static/imgs/agents/chamber/headhunter.png"
       },
       {
         "id": 3,
@@ -484,13 +484,13 @@
     "abilities": [
       {
         "id": 1,
-        "name": "relay-bolt",
-        "icon": "/_nuxt/static/imgs/agents/neon/relay-bolt.png"
+        "name": "fast-lane",
+        "icon": "/_nuxt/static/imgs/agents/neon/fast-lane.png"
       },
       {
         "id": 2,
-        "name": "fast-lane",
-        "icon": "/_nuxt/static/imgs/agents/neon/fast-lane.png"
+        "name": "relay-bolt",
+        "icon": "/_nuxt/static/imgs/agents/neon/relay-bolt.png"
       },
       {
         "id": 3,
@@ -512,13 +512,13 @@
     "abilities": [
       {
         "id": 1,
-        "name": "seize",
-        "icon": "/_nuxt/static/imgs/agents/fade/seize.png"
+        "name": "prowler",
+        "icon": "/_nuxt/static/imgs/agents/fade/prowler.png"
       },
       {
         "id": 2,
-        "name": "prowler",
-        "icon": "/_nuxt/static/imgs/agents/fade/prowler.png"
+        "name": "seize",
+        "icon": "/_nuxt/static/imgs/agents/fade/seize.png"
       },
       {
         "id": 3,
@@ -540,13 +540,13 @@
     "abilities": [
       {
         "id": 1,
-        "name": "cove",
-        "icon": "/_nuxt/static/imgs/agents/harbor/cove.png"
+        "name": "cascade",
+        "icon": "/_nuxt/static/imgs/agents/harbor/cascade.png"
       },
       {
         "id": 2,
-        "name": "cascade",
-        "icon": "/_nuxt/static/imgs/agents/harbor/cascade.png"
+        "name": "cove",
+        "icon": "/_nuxt/static/imgs/agents/harbor/cove.png"
       },
       {
         "id": 3,
@@ -568,13 +568,13 @@
     "abilities": [
       {
         "id": 1,
-        "name": "wingman",
-        "icon": "/_nuxt/static/imgs/agents/gekko/wingman.png"
+        "name": "mosh-pit",
+        "icon": "/_nuxt/static/imgs/agents/gekko/mosh-pit.png"
       },
       {
         "id": 2,
-        "name": "mosh-pit",
-        "icon": "/_nuxt/static/imgs/agents/gekko/mosh-pit.png"
+        "name": "wingman",
+        "icon": "/_nuxt/static/imgs/agents/gekko/wingman.png"
       },
       {
         "id": 3,
@@ -596,13 +596,13 @@
     "abilities": [
       {
         "id": 1,
-        "name": "sonic-sensor",
-        "icon": "/_nuxt/static/imgs/agents/deadlock/sonic-sensor.png"
+        "name": "gravnet",
+        "icon": "/_nuxt/static/imgs/agents/deadlock/gravnet.png"
       },
       {
         "id": 2,
-        "name": "gravnet",
-        "icon": "/_nuxt/static/imgs/agents/deadlock/gravnet.png"
+        "name": "sonic-sensor",
+        "icon": "/_nuxt/static/imgs/agents/deadlock/sonic-sensor.png"
       },
       {
         "id": 3,
@@ -624,13 +624,13 @@
     "abilities": [
       {
         "id": 1,
-        "name": "undercut",
-        "icon": "/_nuxt/static/imgs/agents/iso/undercut.png"
+        "name": "contingency",
+        "icon": "/_nuxt/static/imgs/agents/iso/contingency.png"
       },
       {
         "id": 2,
-        "name": "contingency",
-        "icon": "/_nuxt/static/imgs/agents/iso/contingency.png"
+        "name": "undercut",
+        "icon": "/_nuxt/static/imgs/agents/iso/undercut.png"
       },
       {
         "id": 3,
@@ -652,13 +652,13 @@
     "abilities": [
       {
         "id": 1,
-        "name": "meddle",
-        "icon": "/_nuxt/static/imgs/agents/clove/meddle.png"
+        "name": "pick-me-up",
+        "icon": "/_nuxt/static/imgs/agents/clove/pick-me-up.png"
       },
       {
         "id": 2,
-        "name": "pick-me-up",
-        "icon": "/_nuxt/static/imgs/agents/clove/pick-me-up.png"
+        "name": "meddle",
+        "icon": "/_nuxt/static/imgs/agents/clove/meddle.png"
       },
       {
         "id": 3,
@@ -680,13 +680,13 @@
     "abilities": [
       {
         "id": 1,
-        "name": "shear",
-        "icon": "/_nuxt/static/imgs/agents/vyse/shear.png"
+        "name": "razorvine",
+        "icon": "/_nuxt/static/imgs/agents/vyse/razorvine.png"
       },
       {
         "id": 2,
-        "name": "razorvine",
-        "icon": "/_nuxt/static/imgs/agents/vyse/razorvine.png"
+        "name": "shear",
+        "icon": "/_nuxt/static/imgs/agents/vyse/shear.png"
       },
       {
         "id": 3,

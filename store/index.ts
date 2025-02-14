@@ -19,7 +19,8 @@ export const useMainStore = defineStore('main', {
     state: () => ({
         agents:[] as Agent[],
         roles:[] as Role[],
-        abilitiesName : [] as string[]
+        abilitiesName : [] as string[],
+        mapElements:[] as Agent[],
     }),
 
     actions: {
@@ -37,7 +38,19 @@ export const useMainStore = defineStore('main', {
         async setRoles() {
             const roles = await import('@/static/data/roles.json')
             this.roles = roles.default
-        }
+        },
+
+        addMapElement(agent: Agent) {
+            this.mapElements.push(agent)
+            //localStorage.setItem('mapElements', JSON.stringify(this.mapElements))
+        },
+
+        setMapElements() {
+            /*if (localStorage.getItem('mapElements')) {
+                this.mapElements = JSON.parse(localStorage.getItem('mapElements')!)
+            }
+            */
+        },
     },
 })
 

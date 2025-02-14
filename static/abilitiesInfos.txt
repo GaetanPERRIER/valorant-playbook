@@ -1,0 +1,233 @@
+
+        - 2 types de spells :
+
+Ceux qui on seulement besoin de changer "l'image" -> sans animation : exemple Smoke :
+
+Brimstone :
+- stim beacon
+- incendiary
+- sky smoke
+- orbital strike
+
+Phoenix :
+- hot hands
+
+Sage :
+- slow orb
+
+Sova :
+- shock bolt
+- recon bolt
+
+Viper :
+- snake bite
+- poison cloud
+- viper's pit
+
+Cypher :
+- cyber cage
+
+Reyna :
+- leer
+
+Killjoy :
+- nanoswarm
+- alarmbot
+- lockdown
+
+Omen :
+- dark cover
+
+Jett :
+- cloudburst
+
+Skye :
+- regrowth
+
+Astra :
+- nova pulse
+- gravity well
+- nebula
+
+KAY/O :
+- fragment
+- zero point
+- nullcmd
+
+Chamber :
+- trademark
+-rendezvous
+
+Neon :
+- relay bolt
+
+Fade :
+- seize
+- haunt
+
+harbor :
+- cove
+- recknoning
+
+Gekko :
+- mosh pit
+
+Deadlock :
+-gravnet
+- barrier mesh
+
+Clove :
+- meddle
+- ruse
+
+Vyse :
+- razorvine
+- steel garden
+
+
+
+/////////////////////////////////////////////////////////////////////
+Ceux qui ont besoin de changer l'image et l'animation/rotation : exemple Viper :
+
+
+Phoenix :
+- blaze
+
+Sage :
+- barrier orb
+
+Sova :
+- hunter's fury
+
+Viper :
+- toxic screen
+
+Cypher :
+- trapwire
+
+Killjoy :
+- turret
+
+Breach :
+- aftershock
+- fault line
+- rolling thunder
+
+Omen :
+- paranoia
+
+Raze :
+- boom bot
+
+Astra :
+- cosmic divide
+
+Neon :
+- fastlane
+
+Fade :
+- nightfall
+
+harbor :
+- cascade
+
+Gekko :
+- wingman
+
+Deadlock :
+- sonic sensor
+
+Iso :
+- contigency
+- undercut
+- kill conrtact
+
+
+Vyse :
+- shear
+
+
+Aucun changement : /////////////////////////////
+
+Phoenix :
+ - curveball
+ - run it back
+
+Sage :
+- heal orb
+- resurrection
+
+
+Sova :
+- owl drone
+
+Cypher :
+- spycam
+- neural theft
+
+Reyna :
+- devour
+- dismiss
+- empress
+
+Breath :
+- flashpoint
+
+Omen :
+- shrouded step
+- from the shadows
+
+Jett :
+- updraft
+- tailwind
+- blade storm
+
+Raze :
+- blast pack
+- paint shells
+- showstopper
+
+Skye :
+- trailblazer
+- guiding light
+- seekers
+
+Yoru :
+- blindside
+-fakeout
+- gate crash
+- dimension drift
+
+KAY/O :
+- flash/drive
+
+Chamber :
+- headhunter
+- tour de force
+
+Neon :
+- high gear
+- overdrive
+
+Fade :
+- prowler
+
+harbor :
+- high tide
+
+Gekko :
+- dizzy
+- trash
+
+Deadlock :
+- annilation
+
+Iso :
+- double tap
+
+Clove :
+- pick me up
+- not dead yet
+
+Vyse :
+- arc rose
